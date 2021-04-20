@@ -38,7 +38,7 @@ Primeiro, como criar um registro pro nosso banco recém nascido:
 	
 **1.CREATE -> Insert ->  comando responsável por inserir registros.**
 	
-linha 1: Indica que você está inserindo um dado na table a 'MinhaTabela' entre parenteses mostra quais campos você quer preencher na inserção, nesse caso o 'nome'.
+linha 1: Indica que você está inserindo um dado na table 'MinhaTabela', entre parenteses mostra quais campos você quer preencher na inserção, nesse caso o 'nome'.
 
 Linha 2: Indica qual valor está sendo armazenado no devido atributo declarado anteriormente, no caso o 'nome' receberá o valor "nomeDeFulano"
 Desta forma constitui o seguinte código: 
@@ -66,7 +66,7 @@ Logo temos:
 
 **3.UPDATE -> Update -> comando responsável por atualizar registros.**
 
-Após a palavra chave 'update' é declarado o nome da tabela a qual você quer alterar algum dado, após a palavra chave 'set' deverá ser colocado o nome do atributo a ser atualizado e respectivamente seu valor, não esquecendo da cláusula 'where' que dirá QUAL REGISTRO estará sendo ALTERADO.
+Após a palavra chave 'update', é declarado o nome da tabela a qual você quer alterar algum dado, após a palavra chave 'set', deverá ser colocado o nome do atributo a ser atualizado e respectivamente seu valor, não esquecendo da cláusula 'where' que dirá **QUAL REGISTRO** estará sendo **ALTERADO**.
 
 No exemplo abaixo estaremos alterando o atributo 'nome' da tabela MinhaTabela onde o 'id' for igual a '1'.
 
@@ -78,7 +78,7 @@ No exemplo abaixo estaremos alterando o atributo 'nome' da tabela MinhaTabela on
 
 **4.DELETE -> Delete -> comando responsável por excluir registros.**
 
-Após a palavra chave 'from' virá o nome da tabela a qual você estará deletando 1 registro ou mais de acordo com a condição a ser colocada na cláusula 'where'.
+Após a palavra chave 'from', virá o nome da tabela à qual você estará deletando 1 registro ou mais de acordo com a condição a ser colocada na cláusula 'where'.
 E não menos importante o 'id' que indicará qual registro será deletado.
 
 Abaixo temos o exemplo que correspondente à
