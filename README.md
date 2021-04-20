@@ -3,10 +3,10 @@ Olá, vamos aprender criar um banco SQL sem muito encher o saco.
 
 Palavras Chave -> Palavras/nomes reservados pelo sistema.
 
-Primeiro, instale o MySql em sua máquina.
-Segundo, instale o XAMPP em sua máquina.
-Terceiro, inicie o XAMPP.
-Quarto, Abra o MySql em sua máquina.
+- Primeiro, instale o MySql em sua máquina.
+- Segundo, instale o XAMPP em sua máquina.
+- Terceiro, inicie o XAMPP.
+- Quarto, Abra o MySql em sua máquina.
 
 Para criar um banco de dados é necessário rodar o seguinte comando:
 /*
@@ -25,12 +25,13 @@ pronto, banco criado.
 
 /* 
 
-O atributo 'auto_increment' vai incrementar o ID de forma automatica a cada registro que for sendo adicionado.
+O atributo 'auto_increment' vai incrementar o ID de forma automática a cada registro que for sendo adicionado.
 
 Desta forma, criamos nossa primeira table ou tabela...
-	Agora vamos para o CRUD, significado desta sigla???
-	Este: C de Create(Criar), R de Read(Ler), U de Update(Atualizar) e D de Delete(Excluir).
-	Tudo isso se aplicaria em em registros do nosso banco, como buscar, criar, atualizar ou deletar um registro.
+Agora vamos para o CRUD, significado desta sigla???
+
+Este: **C de Create(Criar), R de Read(Ler), U de Update(Atualizar) e D de Delete(Excluir).**
+Tudo isso se aplicaria em em registros do nosso banco, como buscar, criar, atualizar ou deletar um registro.
 	
 Primeiro, como criar um registro pro nosso banco recém nascido:
 
