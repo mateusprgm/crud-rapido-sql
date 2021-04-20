@@ -38,9 +38,9 @@ Primeiro, como criar um registro pro nosso banco recém nascido:
 	
 **1.CREATE -> Insert ->  comando responsável por inserir registros.**
 	
-linha 1: Indica que que você está inserindo um dado na table a 'MinhaTabela' entre parentes mostra quais campos você quer preencher na inserção, nesse caso o 'nome'.
+linha 1: Indica que você está inserindo um dado na table a 'MinhaTabela' entre parenteses mostra quais campos você quer preencher na inserção, nesse caso o 'nome'.
 
-Linha 2: Indica quais valores está sendo armazenado no devido atributo declarado anteriormente, no caso o 'nome' receberá o valor "nomeDeFulano"
+Linha 2: Indica qual valor está sendo armazenado no devido atributo declarado anteriormente, no caso o 'nome' receberá o valor "nomeDeFulano"
 Desta forma constitui o seguinte código: 
 
 */	
